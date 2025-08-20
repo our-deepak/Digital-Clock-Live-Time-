@@ -1,4 +1,4 @@
-# ⏰ Digital Clock with Seconds
+# ⏰ Digital Clock Live Time with Seconds
 
 This project is a simple **Digital Clock** built using **HTML, CSS, and JavaScript**.  
 It displays the **live current time with seconds** and updates automatically.
@@ -15,6 +15,11 @@ It displays the **live current time with seconds** and updates automatically.
 
 ## 📸 Preview
 ![Digital Clock Preview](preview.png)  
+
+---
+
+## 🔗 Live Demo
+👉 [View Digital Clock](https://livetimewithseconds.netlify.app/)  
 
 ---
 
